@@ -4,6 +4,15 @@ This is a repository of mithril components and CSS, to easy include and access a
 
 ## Including
 
+First, include the npm project
+
+```
+# Install
+npm install https://github.com/arenanet/arenanet-webcomponents.git
+# Update
+npm update arenanet-webcomponents
+```
+
 To include something from this repository, add `arenanet-webcomponents` as a dependency and from your js, include like so:
 
 ```js

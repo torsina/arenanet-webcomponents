@@ -1,7 +1,7 @@
 {
   "name": "arenanet-webcomponents",
   "version": "0.0.1",
-  "description": "",
+  "description": "Package of arenanet mithril/css components",
   "main": "index.js",
   "repository": {
     "type": "git",
