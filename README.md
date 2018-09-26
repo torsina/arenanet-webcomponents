@@ -6,7 +6,7 @@ This is a repository of mithril components and CSS, to easy include and access a
 
 First, include the npm project
 
-```
+```bash
 # Install
 npm install https://github.com/arenanet/arenanet-webcomponents.git
 # Update
