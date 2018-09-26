@@ -13,7 +13,7 @@ npm install https://github.com/arenanet/arenanet-webcomponents.git
 npm update arenanet-webcomponents
 ```
 
-To include something from this repository, add `arenanet-webcomponents` as a dependency and from your js, include like so:
+To use as a dependency from your js, include like so:
 
 ```js
 import exampleComponent from "arenanet-webcomponents/js/example-component.js";
