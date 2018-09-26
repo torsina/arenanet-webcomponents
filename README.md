@@ -1,6 +1,6 @@
 # arenanet-webcomponents
 
-This is a repository of mithril components and CSS, to easy include and access across multiple arenanet products.
+This is a repository of mithril components and CSS for ease-of-access across multiple arenanet products.
 
 ## Including
 
